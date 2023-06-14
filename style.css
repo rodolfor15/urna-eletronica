@@ -220,6 +220,9 @@ body {
 
 /* Responsivo para 680px */
 @media (max-width: 680px) {
+  .urna{ 
+    width: 480px
+  }
   .tela {
     width: 320px;
     height: 200px;
