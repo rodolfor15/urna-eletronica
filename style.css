@@ -27,7 +27,7 @@ body {
     flex-direction: column;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 950px) {
     .tela {
         width: 350px;
         height: 220px;
@@ -43,8 +43,8 @@ body {
 
 @media (max-width: 480px) {
     .tela {
-        width: 250px;
-        height: 160px;
+        width: 150px;
+        height: 100px;
     }
 }
 
