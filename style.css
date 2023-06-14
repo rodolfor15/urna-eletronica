@@ -35,29 +35,36 @@ body {
 
 @media (max-width: 960px) {
   .tela {
-    width: 400px;
-    height: 256px;
+    width: 780px;
+    height: 500px;
   }
 }
 
 @media (max-width: 780px) {
   .tela {
-    width: 300px;
-    height: 204px;
+    width: 680px;
+    height: 435px;
+  }
+}
+
+@media (max-width: 680px) {
+  .tela {
+    width: 480px;
+    height: 307px;
   }
 }
 
 @media (max-width: 480px) {
   .tela {
-    width: 240px;
-    height: 153px;
+    width: 320px;
+    height: 205px;
   }
 }
 
 @media (max-width: 320px) {
   .tela {
-    width: 200px;
-    height: 128px;
+    width: 240px;
+    height: 154px;
   }
 }
 
@@ -102,19 +109,27 @@ body {
   }
 }
 
+@media (max-width: 680px) {
+  .teclado--botao {
+    width: 40px;
+    height: 25px;
+    font-size: 12px;
+  }
+}
+
 @media (max-width: 480px) {
   .teclado--botao {
-    width: 35px;
-    height: 22px;
-    font-size: 12px;
+    width: 30px;
+    height: 20px;
+    font-size: 10px;
   }
 }
 
 @media (max-width: 320px) {
   .teclado--botao {
-    width: 30px;
-    height: 18px;
-    font-size: 10px;
+    width: 25px;
+    height: 16px;
+    font-size: 8px;
   }
 }
 
