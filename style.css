@@ -45,7 +45,7 @@ justify-content: center;
 align-items: center;
 margin: 1rem;
 cursor: pointer;
-box-shadow: 0.938rem 0.938rem 0px #555;
+box-shadow: 15px 15px 0px #555;
 }
 .botao--branco {
 background-color: #FFF;
