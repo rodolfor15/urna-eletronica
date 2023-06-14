@@ -3,7 +3,7 @@ const botaoCandidatos = document.getElementById('botao-candidatos');
 
         function exibirCandidatos() {
             // Seu código para exibir a lista de candidatos aqui
-            console.log('Lista de candidatos');
+            console.log(etapas);
         }
 
 let seuVotoPara = document.querySelector('.d-1-1 span');
