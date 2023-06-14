@@ -221,24 +221,24 @@ body {
 /* Responsivo para 680px */
 @media (max-width: 680px) {
   .urna{ 
-    width: 480px
+    width: 460px
   }
   .tela {
     width: 360px;
     height: 200px;
   }
   .d-1-right {
-    width: 60px;
+    width: 50px;
     height: 140px;
   }
   .d-1-image .small {
     width: 50%;
   }
   .aviso--grande {
-    font-size: 25px;
+    font-size: 20px;
   }
   .aviso--gigante {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 
