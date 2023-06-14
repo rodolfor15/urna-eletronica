@@ -199,11 +199,11 @@ body {
   .urna {
       width: 640px;
   }
-/*  .tela {
+  .tela {
     width: calc(640*0.56);
     height: 260px;
   }
-  .d-1-right {
+ /* .d-1-right {
     width: 70px;
     height: 160px;
   }
