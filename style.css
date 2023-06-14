@@ -40,9 +40,9 @@ body {
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 780px) {
   .tela {
-    width: 320px;
+    width: 300px;
     height: 204px;
   }
 }
