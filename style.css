@@ -197,10 +197,10 @@ body {
 /* Responsivo para 780px */
 @media (max-width: 780px) {
   .urna {
-      width: 600px;
+      width: 640px;
   }
 /*  .tela {
-    width: calc(600*0.56);
+    width: calc(640*0.56);
     height: 260px;
   }
   .d-1-right {
