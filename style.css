@@ -27,7 +27,7 @@ body {
     flex-direction: column;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 950px) {
     .tela {
         width: 350px;
         height: 220px;
