@@ -200,7 +200,7 @@ body {
       width: 640px;
   }
   .tela {
-    width: calc(640*0.56);
+    width: 360px;
     height: 260px;
   }
  /* .d-1-right {
