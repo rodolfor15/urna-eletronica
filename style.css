@@ -29,8 +29,8 @@ body {
 
 @media (max-width: 900px) {
     .tela {
-        width: 400px;
-        height: 250px;
+        width: 350px;
+        height: 220px;
     }
 }
 
