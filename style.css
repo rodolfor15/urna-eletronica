@@ -196,7 +196,10 @@ body {
 
 /* Responsivo para 780px */
 @media (max-width: 780px) {
-  .tela {
+  .urna {
+      width: 500px;
+  }
+/*  .tela {
     width: 400px;
     height: 260px;
   }
@@ -212,7 +215,7 @@ body {
   }
   .aviso--gigante {
     font-size: 50px;
-  }
+  } */
 }
 
 /* Responsivo para 680px */
