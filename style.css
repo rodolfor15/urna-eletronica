@@ -179,7 +179,8 @@ main {
 }
 
 #botao-candidatos {
-  bottom: 50;
+  bmargin-top: 100px;
+  width: 50px;
 }
 
 /* Responsivo para 960px */
