@@ -203,19 +203,19 @@ body {
     width: 360px;
     height: 260px;
   }
- /* .d-1-right {
-    width: 70px;
+  .d-1-right {
+    width: 66px;
     height: 160px;
   }
   .d-1-image .small {
     width: 60%;
   }
   .aviso--grande {
-    font-size: 30px;
+    font-size: 280px;
   }
   .aviso--gigante {
-    font-size: 50px;
-  } */
+    font-size: 48px;
+  } 
 }
 
 /* Responsivo para 680px */
