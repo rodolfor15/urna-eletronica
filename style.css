@@ -177,7 +177,7 @@ main {
   align-items: center;
 }
 
-.botao-candidatos {
+#botao-candidatos {
   bottom: 50;
 }
 
