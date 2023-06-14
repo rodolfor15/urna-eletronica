@@ -173,6 +173,10 @@ body {
   align-items: center;
 }
 
+.botao-candidatos {
+  bottom: 50;
+}
+
 /* Responsivo para 960px */
 @media (max-width: 960px) {
   .tela {
